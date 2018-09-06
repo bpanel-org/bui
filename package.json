@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/bui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A playground plugin for viewing and testing bpanel-ui components",
   "main": "dist/index.js",
   "scripts": {
